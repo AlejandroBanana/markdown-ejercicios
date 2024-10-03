@@ -19,3 +19,4 @@ Para obtener más información detallada sobre el direccionamiento IP, consulta 
 * Entender los conceptos básicos de redes.
 * Aprender sobre la asignación y uso de direcciones IP.
 * Diferenciar entre rangos públicos y privados.
+  sf
